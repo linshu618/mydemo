@@ -8,6 +8,6 @@ public class SpacexController {
 
     @GetMapping("getmsg")
     public String getMsg(){
-        return "I am WINNER";
+        return "I am WINNER master";
     }
 }
